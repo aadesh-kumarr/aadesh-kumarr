@@ -1,8 +1,7 @@
 AADESHKUMAR
  
-Address: New Haridwar Colony, Haridwar,
 E-mail:aadeshk306@gmail.com
-Phone: +919760655299
+
  
 
 
