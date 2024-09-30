@@ -6,77 +6,52 @@ E-mail:aadeshk306@gmail.com
 
 
 
-OBJECTIVES	
-To work in a friendly business environment where I can gain some basic experience about the corporate sector which will also help me in developing my professional skills for all my future projects.
 
 
-WORK EXPERIENCE WITH ROLES AND RESPONSIBILITIES
- 
+SUMMARY
+Experienced software developer with hands-on experience in multiple technologies including React js & Next js for front-end, Python-djnago for backend and Django-ninja for API. Looking forward to apply and enhance my skills and knowledge to 
 
 
-1.	Served a crucial role of team manager for organizing annual day at DAVCPS which gave me a good experience and understanding of team work as well as it taught me how to work under pressure.
+EDUCATION
+BACHELOR OF TECHNOLOGY IN CSE  
+Doon Institute Of Engineering And Technology,Rishikesh
 
-2.	Worked as a free-lancer in three projects;
-Logo design for LOSTRONAUNT ltd
-	Logo design for JEWELASTRO
-A console based application for managing data of students of a coaching in python programming language
+CBSE(10+2)
+Bombay Public School,Dehradun
 
-EXPOSUREINIT 
+WORK EXPERIENCE
+Developed a console-based Python software for student management, utilizing MySQL as a backend for database connectivity. Implemented features including :
+fee alerts using 'time' library. 
+storing test marks for comprehensive student information management.
+      This reduced the paperwork by 40%.
+Created 6+ logo designs using Canva, leveraging its design tools to produce visually impactful and professional graphics. Demonstrated creativity in developing distinctive brand identities, enhancing visual communication and brand recognition.
+Developed a Python-based WhatsApp broadcast tool utilizing Selenium and Pandas. Significantly enhanced efficiency by automating bulk messaging and video sharing from Excel, resulting in a 300% time reduction.
 
-1.	Knowledge of MS word, MS excel, MS power point, Canva and other basic soft wares.
-2.	Basic knowledge of programming languages including JAVA,C#,C++
-3.	Detailed knowledge of python programming including numpy and pyplot libraries.
+INTERNSHIPS
+Edureka- Machine learning and Data Science.
+Completed an internship focused on machine learning, gaining comprehensive knowledge of types of machine learning, including supervised, unsupervised, and reinforcement learning.
+Acquired hands-on experience with key machine learning algorithms such as linear regression, decision trees, and neural networks etc., enhancing both theoretical understanding and practical application skills.
 
-AREA OF EXPERTISE:	
-•	Effective Communication Skills.
-•	Goal oriented
-•	Organizational Skills.
+Projects
+Developed an NLP-based virtual assistant capable of sending WhatsApp messages, opening specific websites, and playing YouTube videos using libraries such as Selenium, SpeechRecognition, pyttsx3, and webbrowser.
+Created a WhatsApp broadcast messaging software enabling bulk messaging and video sending to contacts from an Excel sheet. Utilized libraries including Selenium, pandas, and tkinter for backend and frontend development respectively.
+Designed and implemented a website using Django, HTML, and CSS, gaining proficiency in Python framework components such as forms, models, alerts, and views.
 
+Key Skills
+Extensive knowledge of Python programming language, with hands-on experience using libraries such as NumPy for numerical computations, Pyplot for data visualization, Selenium for automation and Tkinter for GUI development Basic proficiency in programming languages such as Java and C++, with an understanding of OOPS and basic syntax.
+Intermediate knowledge in JS frameworks including Next JS and React JS.
+Proficient in MS Office suite (Word, Excel, PowerPoint) for documentation, data analysis, and presentations.
+Skilled in using Canva for graphic design and creating professional visual content
 
-Key Skills:	
-•	Excellent communication skill both orally and in writing.
-•	Ability to take Initiative.
-•	Ability to prioritize and plan effectively.
-•	Awareness of different media agendas.
-•	Stress management.
-•	Positive thinker.
-•	Creative.
- 
+CERTIFICATION
+UPTO SKILLS PYTHON WORKSHOP in co-ordination with DOON GROUP OF INSTITUTIONS.
+PERFECT ELEARNING PYTHON COURSE for beginners (27TH October,2022). 
+PERFECT ELEARNING DATA STRUCTURES course in PYTHON (15 Novermber,2022).
+COLLEGE TO CORPORATE seminar in co-ordination with UPES(by Dr. Sumeet Gupta).
 
-
-EDUCATIONAL QUALIFICATIONS
- 
-Course(Stream)/Examination	Institution/University	Year of Passing
-Bachelor Of Technology(Computer science engineering)	UTTARAKHAND TECHNICAL UNIVVERSITY	
-2021-24(APPERAING)
-CBSE-12th	BOMBAY PUBLIC SCHOOL, DEHRADUN	2020-21
-
-
-
-OTHER CIRTIFICATES AND COURSES
-
-•	KAGGLE CERTIFICATE OF COMPLITION OF PYTHON COURSE (14th October,2022)
-•	EDUREKA DATA SCIENCE AND MACHINE LEARNING PROGRAM(19TH October,2022)
-•	thingQbator CERIFICATION OF EXCELLENCE FOR CHATBOT OR SMART ASSISTED DEVELOPMENT
-
-•	OTHERINTEREST & ACTIVITIES
-	LISTENING MUSIC
-	PLAYING MOUTH ORGAN 
-	READING BOOKS 
-	WRITING POETRY,QUOTES AND NOVELS
-
-
-
-PERSONAL INFORMATION	
-
-
-Date of Birth	:	27MAY,2004
-Languages Proficiency	:	English and Hindi
-Marital Status	:	Unmarried
-		
-
-
-
-
-(AADESH KUMAR)
+Soft Skills
+Initiative: Proven ability to lead projects and drive results. 
+Prioritization: Skilled in strategic planning and efficient task management. 
+Positive Thinker: Maintains a positive outlook, boosting team morale and productivity.
+Creativity: Recognized for innovative problem-solving and generating unique solutions.
 
